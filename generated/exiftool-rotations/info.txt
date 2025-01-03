@@ -1,0 +1,16 @@
+../../scripts/exiftool-rotations.sh
+----
+exiftool v12.76
+----
+Version: ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org
+Copyright: (C) 1999 ImageMagick Studio LLC
+License: https://imagemagick.org/script/license.php
+Features: Cipher DPC Modules OpenMP(4.5) 
+Delegates (built-in): bzlib djvu fftw fontconfig freetype heic jbig jng jp2 jpeg lcms lqr ltdl lzma openexr pangocairo png raw tiff webp wmf x xml zlib
+----
+1.17.6
+libheif: 1.17.6
+plugin path: /usr/lib/x86_64-linux-gnu/libheif/plugins
+----
+cjxl v0.7.0 [AVX2,SSE4,SSSE3,SSE2]
+Copyright (c) the JPEG XL Project
