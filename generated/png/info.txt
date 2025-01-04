@@ -1,0 +1,19 @@
+../../scripts/png-formats.sh
+----
+Version: ImageMagick 6.9.12-98 Q16 x86_64 18038 https://legacy.imagemagick.org
+Copyright: (C) 1999 ImageMagick Studio LLC
+License: https://imagemagick.org/script/license.php
+Features: Cipher DPC Modules OpenMP(4.5) 
+Delegates (built-in): bzlib djvu fftw fontconfig freetype heic jbig jng jp2 jpeg lcms lqr ltdl lzma openexr pangocairo png raw tiff webp wmf x xml zlib
+----
+ffmpeg version N-116136-gb13291f37c Copyright (c) 2000-2024 the FFmpeg developers
+built with gcc 14 (Ubuntu 14.2.0-4ubuntu2~24.04)
+configuration: --enable-nonfree --enable-gpl --enable-shared --enable-libx264 --enable-libx265 --enable-libspeex --enable-libfreetype --enable-libfontconfig --enable-libfribidi --enable-libharfbuzz --enable-libvpx --enable-ffplay --enable-libxml2 --enable-openssl --enable-libdav1d --enable-libvidstab
+libavutil      59. 28.100 / 59. 28.100
+libavcodec     61.  9.100 / 61.  9.100
+libavformat    61.  4.100 / 61.  4.100
+libavdevice    61.  2.100 / 61.  2.100
+libavfilter    10.  2.102 / 10.  2.102
+libswscale      8.  2.100 /  8.  2.100
+libswresample   5.  2.100 /  5.  2.100
+libpostproc    58.  2.100 / 58.  2.100
