@@ -1,0 +1,1 @@
+This file extension is not supported, nomacs may try to read it though
